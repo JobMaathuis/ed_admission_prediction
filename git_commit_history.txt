@@ -1,0 +1,535 @@
+commit a5f233d48ea7dc2a58959b012bf1861bfdbcf017
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Jan 31 10:21:03 2024 +0100
+
+    uploaded the deployment diagrom for in the readme
+
+commit 2866331453cb8c64f1f59061938cb1cbf23ef50b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Jan 31 10:16:34 2024 +0100
+
+    Created a readme
+
+commit e9cc834a420758cd4910e136717bc4bcf172aac9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Jan 17 09:55:36 2024 +0100
+
+    Re-ran the TIME_ML ipynb
+
+commit dcf088e56829ec8eba25744f06ca44f47e9effc0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 11:56:03 2024 +0100
+
+    Removed redundant import
+
+commit f9c67e52c22aef9ff9a58bb429417c71ec14cc22
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 10:12:53 2024 +0100
+
+    Renamed file
+
+commit 83c75eea2a7bdffe0bd305aa8ce63bd5df7e1739
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 10:06:10 2024 +0100
+
+    Remove some redundant cells
+
+commit c97755debc9961a66ef5af2287c78d011769331e
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 10:04:43 2024 +0100
+
+    Removed redundant columns from the remove_na_entries function call
+
+commit cac5c75c7e672343ec80354eadf969c720764a3c
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 10:02:15 2024 +0100
+
+    Rerun of all cells
+
+commit ebe7317e1724c23b3221594678d0dce750a8796b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 09:58:21 2024 +0100
+
+    Updated cell which calculated timedeltas
+
+commit 791283a565bc62453e5557b8d399e78c0050c515
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 09:55:11 2024 +0100
+
+    Added docstrings to functions
+
+commit bec2f1dee887d06043949a749e95fe4f500a175f
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Jan 15 09:38:42 2024 +0100
+
+    Updated the ED query
+
+commit f521e2e5e20c171e59f7225052326c3238cb8d47
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Jan 3 13:15:41 2024 +0100
+
+    Restructured the deployment directory and added Dockerfiles
+
+commit 267b0d59cea452f96b23afa9bb4428dd735666dc
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Dec 19 09:48:34 2023 +0100
+
+    Removed tables which displayed patient numbers or SEHIDs
+
+commit e6a43ce35541367b07030fb84965d36cc7826d88
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Dec 19 09:48:00 2023 +0100
+
+    Used a config file to read in the data
+
+commit fe65f5099dca6b726eba888623fcfb020027a0ae
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Dec 19 09:47:39 2023 +0100
+
+    Removed hard paths and dataframes which showed patient numbers or SEHIDs
+
+commit 507ea19b047d92715db1fcc508df99d20b2ee210
+Merge: b060fc0 5b1916b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 15:59:18 2023 +0100
+
+    Merge branch 'main' of https://gitlab.zgt.nl/research/ed_admission_prediction into main
+
+commit b060fc088f302a1062db344474c4aab2598828aa
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 15:58:51 2023 +0100
+
+    Removed tables which showed patient data
+
+commit bc07092d555f58a7f54157dc61527a5e820713bf
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 15:58:20 2023 +0100
+
+    Removed commands which showed the raw patient data (such as .head())
+
+commit fbf68240d4a1e32fe4765f3c9036f75dd17b4df7
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 15:57:50 2023 +0100
+
+    Added a config for the files used in the EDA
+
+commit 5b1916b0f81d1350637a99077c8ddec33a9c7415
+Author: Job Maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 11:37:18 2023 +0000
+
+    Uploaded an image which overviews the SSIS package
+
+commit 6b3559bdcdb1260b82272b70a01aa86199949a0d
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 12:30:53 2023 +0100
+
+    Added the visual basic scripting tasks
+
+commit bfd3f5eb2021fccbecfcc98503590dc0bb64a1a2
+Merge: 8baa254 52abb20
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 12:24:51 2023 +0100
+
+    Merge branch 'main' of https://gitlab.zgt.nl/research/ed_admission_prediction into main
+
+commit 52abb20952da6c10f338693010bd2209f7ea3a26
+Author: Job Maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 18 11:13:22 2023 +0000
+
+    Add new directory
+
+commit 8baa254773b7c681e77d7da2e481fbb0bc55b0a0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 11 14:58:41 2023 +0100
+
+    Application wont crash when there are not patients on ED   and updated the time plot
+
+commit b6b5c76402918fc496bf2bd8a1ba68e2f1e9b741
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 11 09:45:56 2023 +0100
+
+    Removed ingklacht and month features from models as they had very low to no feature importances
+
+commit c8bfdd08ddfaefc4925190b9747fd55712755d0b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 11 09:42:50 2023 +0100
+
+    Removed redundant import
+
+commit 526bef6a3e679b9f2d924f896eca4a8080d1890c
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Dec 4 16:04:46 2023 +0100
+
+    Removed features from the preprocessing which had a low importance and resulted in noise
+
+commit e53777e3ad1ac2bd4b5abe5b6849861379dac738
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Nov 14 16:56:41 2023 +0100
+
+    Removed the removing of MEWS score as this bug was fixed in the preprocessing
+
+commit d7574e100e6efaf7d11779a410f577b776cefb9e
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Nov 14 16:55:40 2023 +0100
+
+    Fixed a bug where missing vitals would not be in the final df
+
+commit d4e7bc95ec5b1aad0b8a0b63fd4a11dcdc480574
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Nov 14 15:35:47 2023 +0100
+
+    Cleaned code
+
+commit 0294fe3c5b5b20bb076340976522cffe74c99a39
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Nov 14 14:50:49 2023 +0100
+
+    Fixed the timer, added result windows to the timeplots and cleaned the code
+
+commit f140f51c9041c6de097bd73d29a2775be2a62cf0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Nov 14 13:48:33 2023 +0100
+
+    Renamed and moved some directories
+
+commit df30ee399a7622164e2ab71304b04ca8544bc9e8
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Nov 13 11:47:25 2023 +0100
+
+    Worked on inference and shiny dashboard
+
+commit 0957befa8601edd802b47d74cd76c12083e71362
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Nov 6 10:29:50 2023 +0100
+
+    Renamed directory
+
+commit 316a3dae84b9e1452884770a509d179bfdc209ed
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Nov 6 10:27:47 2023 +0100
+
+    Fixed the issue where some SEHIDs were not in the SEH data but were in the TIME data
+
+commit 5faf9352f8071d39dc732466d442a2837ddf965b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Nov 6 10:26:48 2023 +0100
+
+    Created a small test flask API
+
+commit 6968718f508f713568f2a02c90511d445e30b55e
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Nov 6 10:26:14 2023 +0100
+
+    Finished the machine learning part and dumped the final models and vectorizer
+
+commit 8fdc1c775022b92166077dea5121982fde8799c3
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Oct 31 12:31:05 2023 +0100
+
+    Updated the clean text so that # is no longer removed
+
+commit 5d87433c1f94aca9ac7e83f50abe31207d3db5da
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 15:02:00 2023 +0100
+
+    Created a pipeline for deployment
+
+commit bd3e0a8dc747dc33393c6cc3b35406904a0fb6c0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:42:35 2023 +0100
+
+    Created preprocessign files for during deployment
+
+commit 2c4b23a9142da2bbdb3e4fdf0851f0f0f247a1e0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:41:59 2023 +0100
+
+    Improved the preprocessing and added scaling
+
+commit d0971f433c76e3bcbaa314c1d0a42473841623bf
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:41:38 2023 +0100
+
+    Made some small changes in preprocessing and added scaling to the lab variables
+
+commit b248f0548d963d0fad7f78294c9ec743813c22b8
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:41:02 2023 +0100
+
+    Fixed some plots, removed some redundant text
+
+commit 7add2cfaa4a8214b7a8a70bc21ea0854b4e576dd
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:39:20 2023 +0100
+
+    Updated the config
+
+commit 1d1dde4b684f348298e879b22648b1fc9b3fbcce
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 12:39:06 2023 +0100
+
+    Implemented the categorical ingangsklacht
+
+commit c11eae8f09b64ae672a48869e9aace34b00022c3
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 30 10:45:43 2023 +0100
+
+    Created the scalers for deployment
+
+commit 326107538ec722cde137c3ab8c3b776e0b13e6e9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Oct 24 16:18:29 2023 +0200
+
+    Almost finished the machine learning part, still working on model optimization
+
+commit 5448d86f269f53155f8ca37f7dab980612909dbd
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Oct 18 12:57:49 2023 +0200
+
+    Fixed the NaN rows
+
+commit fb1efc097d2f2a92451d5f75cc9b05c74b43dcec
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Oct 18 10:48:59 2023 +0200
+
+    Increased chunk size for writing output file
+
+commit 08ee172dbf8f923727691e9b87f8fcd8aca69796
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Oct 18 10:41:28 2023 +0200
+
+    Fixed blank rows in file when writing output
+
+commit 84743e2e6608654fbca3dbd73bad3a22f471d461
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Oct 17 10:10:31 2023 +0200
+
+    Updated text cleaning and now drops rows where KLACHT was an empty field
+
+commit fecbbbecbe9a27571fa83e75c963536d7b4d8612
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 16:53:46 2023 +0200
+
+    Created grouping functions for age and time
+
+commit eb0dc43209238e3ec000396d95988957f1542fc0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:54:58 2023 +0200
+
+    Set index to false when writing output file
+
+commit d055d893458f4756d6dfde167300243e988cc23e
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:45:17 2023 +0200
+
+    Worked on the Machine Learning with respect to time
+
+commit 9ef5b5cd905510cb7fa882578376a2b547b8d4ff
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:44:51 2023 +0200
+
+    Added documentation and improved readability
+
+commit d9e5e1256448ca342751ec5976bec179b30816d9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:38:03 2023 +0200
+
+    Added documentation and improved readability
+
+commit 77e2af3c09e4544460b5929a1eb94cfebbc16615
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:28:05 2023 +0200
+
+    Added docstrings to the functions
+
+commit 717137510bc510901bd470ebac1f486ee93d02e6
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:26:04 2023 +0200
+
+    Changed docstrings to triple double docstrings
+
+commit f41fceacea94f1322a193b235fb61aee3a8c12b0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:17:19 2023 +0200
+
+    Added documentation and improved readability
+
+commit f11203ebd1baa221131fc58b92ac78b4add476d6
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:01:33 2023 +0200
+
+    Created a preprocessing file for RAD reports
+
+commit 98cd3b276fb9c62602d6261791c128c62c7db860
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 16 15:00:54 2023 +0200
+
+    Performed EDA on the radiology reports data (NLP
+
+commit 616140c61267a55df1fa04cbb4696dd5d65202e9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Oct 13 13:46:53 2023 +0200
+
+    Created a query for the x-ray reports
+
+commit 3e4a3c38e035cf41646fe0da7b5f8dffce1030dc
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 12 16:30:48 2023 +0200
+
+    Renamed directory names
+
+commit e803516f4a53e0c3b6d2a570e57bbb5aad790f3c
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 12 16:28:01 2023 +0200
+
+    Added the data extraction SQL queries
+
+commit 6cc98c3507c739a70c25b67eeb375c9b18813c8d
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 12 16:18:19 2023 +0200
+
+    Fixed the registration key error
+
+commit 051022cf923488c2c256f14d4a5fd55750bf6472
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 12 11:48:41 2023 +0200
+
+    Fixed a bug with the timedelta (day was substracted instead of added :( )
+
+commit 215f4cabe4a3065071c32cf163d6065a73ce647b
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Oct 10 16:18:29 2023 +0200
+
+    Made a preprocessing file for the vitals
+
+commit d6be0c35e53c8591362b2dedf23828d812f6c457
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Oct 6 14:59:32 2023 +0200
+
+    Started on the machine learning notebook with time
+
+commit 3e9c2a599e3da951e76971fc8931b042a0981d1f
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Oct 6 14:46:55 2023 +0200
+
+    Fixed a bug where i substracted the wrong datetimes (reversed)
+
+commit ec7dc6e6a6b420d69a32c267c21231b335cb3fdc
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Oct 6 10:12:17 2023 +0200
+
+    Removed the SEH preprocessign notebook. Everything has been move in the .py file
+
+commit 8384cc86a2b851ddeeab718376a3652c374231ba
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Oct 6 10:09:42 2023 +0200
+
+    Explored the vitals data
+
+commit 6df4a99963b470c3e46780e9aa380d0e800a332d
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 5 15:37:38 2023 +0200
+
+    Improved the preprocessing codde
+
+commit 4b841b65e8cf2df351db20061d1eca5e965fdc6c
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 5 15:05:21 2023 +0200
+
+    FInished the lab preprocessing
+
+commit eabfb96b51134737e49650fa49caee352c6dbaf9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Oct 5 10:18:19 2023 +0200
+
+    Updated the seh preprocessing
+
+commit 8447984f41a333492702c3c09167550470f6a5a3
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Wed Oct 4 09:31:50 2023 +0200
+
+    Created a scrip fot the preprocessing of the SEH data
+
+commit f3f5d9eccd2fdadc69a4ae3038e313790227a8e2
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 2 16:05:53 2023 +0200
+
+    Removed some old machine learning cells
+
+commit 4a1c668047ca98d57edefc24e607cc7b89775d13
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Mon Oct 2 14:49:53 2023 +0200
+
+    Look at different ways to fuse the different input stream together
+
+commit f1b37641eda54e6eeac8cf8eaa7c436e4b6b988a
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Fri Sep 29 15:42:10 2023 +0200
+
+    Performed Machine learning with different fusion techniques
+
+commit afe3f3fdb782debc7afa659b804c1706382d6055
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 16:08:02 2023 +0200
+
+    Performed machine learning on the processed SEH data
+
+commit 98a1398271dfb74efcc608310648d753337a13c4
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 16:07:31 2023 +0200
+
+    Updated the preprocessing notebook
+
+commit 3e0ecba9d18108ca1b2020180bdc57eba5754244
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 15:25:07 2023 +0200
+
+    Updated names
+
+commit 6586b08ef9067fe678b521c221f9cd0aedc364f4
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 15:21:17 2023 +0200
+
+    Created a notebook for preprocessing of the data
+
+commit 051fc24437646ed328eae8d848840a4767537c40
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 15:12:36 2023 +0200
+
+    Renamed dir
+
+commit 2b4a283eb24db1c0389b434a098e95ce4d7233d9
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 11:16:42 2023 +0200
+
+    Added a gitignore
+
+commit 8338a24a57deed0a733f4cd5df53fdd3c7a808a8
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 11:14:32 2023 +0200
+
+    Moved the files to the right dir
+
+commit 3641ee13bec84b41c7d5813bbfe52f8adb3d63f0
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 11:10:29 2023 +0200
+
+    Added the lab data exploration notebook
+
+commit cc66d623d16f3c501181efc91980033089995568
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Thu Sep 28 11:06:51 2023 +0200
+
+    Renamed file
+
+commit bd0be04b0acdaada7857f47ab427a91d9fdc5d8a
+Author: j.maathuis <j.maathuis@zgt.nl>
+Date:   Tue Sep 26 09:51:05 2023 +0200
+
+    Performed data exploration on the SEH_SEHREG table (triage data)
+
+commit 2c6d127c85cbbf5b85d9142c9fddd286cc247e86
+Author: Job Maathuis <j.maathuis@zgt.nl>
+Date:   Wed Sep 13 10:50:15 2023 +0000
+
+    Initial commit
